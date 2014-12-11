@@ -1,0 +1,15 @@
+{
+  "name": "Parse-XBRL-data-Node",
+  "version": "0.0.1",
+  "author": "Michael Cullen",
+  "description": "Parse XBRL data with Node",
+  "private": true,
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "cheerio": "^0.18.0",
+    "request": "^2.51.0"
+  },
+  "devDependencies": {}
+}
