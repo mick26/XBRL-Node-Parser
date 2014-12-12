@@ -1,7 +1,7 @@
 ## Using NodeJS to parse XBRL file 
  
 
-XBRL (eXtensible Business Reporting Language) is a computer readable XML based language designed to enhance the communication and analysis of financial data. It enables the electronic tagging of financial data allowing the data to be identified in terms of standard accounting or tax concepts.
+[XBRL (eXtensible Business Reporting Language)](https://www.xbrl.org/) is a computer readable XML based language designed to enhance the communication and analysis of financial data. It enables the electronic tagging of financial data allowing the data to be identified in terms of standard accounting or tax concepts.
 
 iXBRL or _Inline XBRL_, is a more recent version of the language which allows human-friendly presentation of XBRL documents. An  iXBRL report can be viewed like a web page and the XBRL can be extracted if the recipient wants to use the tagged data. iXBRL is the format of XBRL being adopted in the UK and Ireland for tax reporting purposes [[1]](http://www.pwc.ie/services/audit-and-assurance/audit-and-accounting/xbrl.jhtml).
 
